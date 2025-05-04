@@ -1,4 +1,4 @@
-# Advanced Text Recognition Application
+# Text Recognition Application
 
 A comprehensive Python application for extracting and analyzing text, numbers, and words from images using Optical Character Recognition (OCR). This application provides a user-friendly interface with advanced features for image processing, text extraction, and data analysis.
 
